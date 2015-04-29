@@ -1,0 +1,6 @@
+E:\HTML\Homeworks\Homework4\Problem01. Refactoring\bin\Problem01.Refactoring.dll.config
+E:\HTML\Homeworks\Homework4\Problem01. Refactoring\bin\Problem01.Refactoring.dll
+E:\HTML\Homeworks\Homework4\Problem01. Refactoring\bin\Problem01.Refactoring.pdb
+E:\HTML\Homeworks\Homework4\Problem01. Refactoring\obj\Debug\Problem01. Refactoring.csprojResolveAssemblyReference.cache
+E:\HTML\Homeworks\Homework4\Problem01. Refactoring\obj\Debug\Problem01.Refactoring.dll
+E:\HTML\Homeworks\Homework4\Problem01. Refactoring\obj\Debug\Problem01.Refactoring.pdb

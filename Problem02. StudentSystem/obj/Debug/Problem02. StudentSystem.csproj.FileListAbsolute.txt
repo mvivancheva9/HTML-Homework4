@@ -1,0 +1,5 @@
+E:\HTML\Homeworks\Homework4\Problem02. StudentSystem\bin\Problem02.StudentSystem.dll.config
+E:\HTML\Homeworks\Homework4\Problem02. StudentSystem\bin\Problem02.StudentSystem.dll
+E:\HTML\Homeworks\Homework4\Problem02. StudentSystem\bin\Problem02.StudentSystem.pdb
+E:\HTML\Homeworks\Homework4\Problem02. StudentSystem\obj\Debug\Problem02.StudentSystem.dll
+E:\HTML\Homeworks\Homework4\Problem02. StudentSystem\obj\Debug\Problem02.StudentSystem.pdb
